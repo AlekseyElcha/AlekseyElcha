@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlekseyElcha
 - 👀 I’m interested in backend development
-- 🌱 I’m currently studying at NUST MISIS, learning Python & C#
+- 🌱 I’m currently studying at NUST MISIS, learning Python & C# & Go
 - 📫 How to reach me - by email - aleshus2007@gmail.com || alekseyfox2007@yandex.ru
 - Hi from Russia! 🇷🇺 :)
 <!---
